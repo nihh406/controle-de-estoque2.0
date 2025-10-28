@@ -1,6 +1,6 @@
 #  PDV-App: Sistema de Ponto de Venda e Gestão de Estoque (Versão Otimizada)
 
-<img src="img.README/tela-login.jpg" alt="Descrição da Imagem" width="300"/>
+<img src="img.README/Imagem do WhatsApp de 2025-10-27 à(s) 17.18.12_cbf002f7.jpg" alt="Descrição da Imagem" width="300"/>
 
 Este projeto foi re-otimizado para garantir uma **demonstração Full-Stack imediata**, focando na lógica de negócio essencial (CRUD, transações e autenticação) sem a complexidade de *frameworks* de build (como React/Vite).
 
